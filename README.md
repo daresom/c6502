@@ -12,6 +12,10 @@ All instructions have to be hardcoded in `main.c`
 
 For testing purposes, `main.c` contains ~5 tests. An increment and decrement (for the x and y registers) test, and some load tests. The intended results of the tests are shown in comments
 
+# Running
+
+Compile the c files (or download the exe in releases) and run the .exe or .out file in cmd. 
+
 # To do
 
 - Literally everything else
